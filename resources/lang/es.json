@@ -9,6 +9,8 @@
     "Add additional security to your account using two factor authentication.": "Agregue seguridad adicional a su cuenta mediante la autenticación de dos factores.",
     "Add": "Agregar",
     "Added.": "Agregado.",
+    "Administrator": "Administrador",
+    "Administrator users can perform any action.":"Los usuarios administradores pueden realizar cualquier acción.",
     "All of the people that are part of this team.": "Todas las personas que forman parte de este equipo.",
     "All rights reserved.": "Todos los derechos reservados.",
     "Already registered?": "Ya estoy registrado",
@@ -38,6 +40,8 @@
     "Delete": "Eliminar",
     "Disable": "Deshabilitar",
     "Done.": "Hecho.",
+    "Editor": "Editor",
+    "Editor users have the ability to read, create, and update.":"Los usuarios de rol editor tienen la capacidad de leer, crear y actualizar."
     "E-Mail Address": "Correo electrónico",
     "Email Password Reset Link": "Enviar enlace de restablecimiento",
     "Email": "Correo electrónico",
@@ -84,6 +88,7 @@
     "Please copy your new API token. For your security, it won't be shown again.": "Copie su nuevo token de API. Por su seguridad, no se volverá a mostrar.",
     "Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.": "Ingrese su contraseña para confirmar que desea cerrar la sesión de sus otras sesiones de navegador en todos sus dispositivos.",
     "Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.": "Proporcione la dirección de correo electrónico de la persona que le gustaría agregar a este equipo. La dirección de correo electrónico debe estar asociada a una cuenta existente.",
+    "Please provide the email address of the person you would like to add to this team.": "Proporcione la dirección de correo electrónico de la persona que le gustaría agregar a este equipo."
     "Profile Information": "Información del perfil",
     "Profile": "Perfil",
     "Recovery Code": "Código de recuperación",
